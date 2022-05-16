@@ -1,0 +1,30 @@
+for system setup:
+
+pip install -r requirements.txt
+
+For Testing:
+
+run:
+python video_main.py
+
+An UI will open
+In the UI:
+There will be 4 buttons:
+
+1.For fast performance but detection accuracy would decrease:
+VIDEO FAST
+CAMERA FAST
+
+2.For more accurate detections but performance would decrease:
+use gpu for better performance
+VIDEO ACCURATE
+CAMERA ACCURATE
+
+For aborting window press 'q'
+Input:
+put videos inside:
+'input/' folder
+
+output:
+'output/' folder results present
+
